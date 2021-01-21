@@ -5,7 +5,7 @@
 ## Designs Patterns 
 
 [Regatctoring Guru](https://refactoring.guru/fr/design-patterns/catalog)
-http://bliaudet.free.fr/IMG/pdf/DPTLP.pdf
+[Livre : Tête la première - Design Patterns](http://bliaudet.free.fr/IMG/pdf/DPTLP.pdf)
 
   - Builder
-  https://blog.engineering.publicissapient.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/
+  [Article : Design pattern : Builder et Builder sont dans un bateau](https://blog.engineering.publicissapient.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)

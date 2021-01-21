@@ -31,7 +31,7 @@
 
 ## Javascript
 
-[Cours : Débuter Javascript de zéro, apprendre les bases](https://www.youtube.com/watch?v=QB1DTl7HFnc]
+[Cours : Débuter Javascript de zéro, apprendre les bases](https://www.youtube.com/watch?v=QB1DTl7HFnc)
 
 ### ----- Angular 
 

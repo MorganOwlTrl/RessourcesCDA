@@ -36,6 +36,18 @@
  ### JUnit 5
  
  [Cours : Testez votre code Java pour réaliser des applications de qualité](https://openclassrooms.com/fr/courses/6100311-testez-votre-code-java-pour-realiser-des-applications-de-qualite)
+ 
+ ### JDBC
+ 
+ [Cours Playlist : Tuto Java JDBC - Koor](https://www.youtube.com/watch?v=yS-hF0irE84&list=PLBNheBxhHLQwM9BZbJbR3FaIKVODP2rBt)
+ 
+ ### Spring 
+ 
+ [TUTO Spring : introduction au principe d'injection de dépendances avec Spring Framework - Koor](https://www.youtube.com/watch?v=hcTF2HiHl_A&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW&index=47)
+ 
+ ### Java EE / Jakarta EE
+ 
+ [Cours playlist : Tuto Java EE - Koor](https://www.youtube.com/watch?v=yjJALFHAb-o&list=PLBNheBxhHLQyuFBZHx20kGByDoySutwBf)
 
 ## Designs Patterns 
 

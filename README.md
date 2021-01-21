@@ -59,7 +59,11 @@
  ### ----- JDBC
  
  [Cours Playlist : Tuto Java JDBC - Koor](https://www.youtube.com/watch?v=yS-hF0irE84&list=PLBNheBxhHLQwM9BZbJbR3FaIKVODP2rBt)
- ](https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee)
+ 
+ ## JAVA EE
+ 
+ [Cours : Creez votre application web avec Java EE](https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee)
+ 
  ### ----- Spring 
  
  [TUTO Spring : introduction au principe d'injection de dépendances avec Spring Framework - Koor](https://www.youtube.com/watch?v=hcTF2HiHl_A&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW&index=47)

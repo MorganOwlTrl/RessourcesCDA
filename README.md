@@ -1,10 +1,10 @@
 # RessourcesCDA
 
-JAVA
+## JAVA
 
-Designs Patterns 
+## Designs Patterns 
 
-https://refactoring.guru/fr/design-patterns/catalog
+[Regatctoring Guru](https://refactoring.guru/fr/design-patterns/catalog)
 http://bliaudet.free.fr/IMG/pdf/DPTLP.pdf
 
   - Builder

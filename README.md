@@ -1,10 +1,14 @@
 # RessourcesCDA
 
 
+## Scrum
+
+[Guide Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf)
+
 ## CSS
 
 [Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
-[Liste des selecteurs CSS (en anglais](https://www.w3schools.com/cssref/css_selectors.asp)
+[Liste des selecteurs CSS (en anglais)](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ## Bootstrap
 

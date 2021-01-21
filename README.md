@@ -32,7 +32,7 @@
 [Cours playlist vidéo : Java intermédiaires - Les Teachers du Net](https://www.youtube.com/playlist?list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
 
 
-  ### ----- Maven
+ ### ----- Maven
  
  [Cours : Organisez et packagez une application Java avec Apache Maven](https://openclassrooms.com/fr/courses/4503526-organisez-et-packagez-une-application-java-avec-apache-maven)
  
@@ -43,16 +43,21 @@
  ### ----- JDBC
  
  [Cours Playlist : Tuto Java JDBC - Koor](https://www.youtube.com/watch?v=yS-hF0irE84&list=PLBNheBxhHLQwM9BZbJbR3FaIKVODP2rBt)
- 
+ ](https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee)
  ### ----- Spring 
  
  [TUTO Spring : introduction au principe d'injection de dépendances avec Spring Framework - Koor](https://www.youtube.com/watch?v=hcTF2HiHl_A&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW&index=47)
  
- ### ----- Java EE / Jakarta EE
+ ## Java EE / Jakarta EE
  
  [Cours playlist : Tuto Java EE - Koor](https://www.youtube.com/watch?v=yjJALFHAb-o&list=PLBNheBxhHLQyuFBZHx20kGByDoySutwBf)
+ [Cours : Créez votre application web avec Java EE - OpenClassroom](https://openclassrooms.com/fr/courses/626954-creez-votre-application-web-avec-java-ee)
+ 
+ ### ----- JSP/JSF
+ 
+[Les JSP (Java Server Pages)](https://www.jmdoudoux.fr/java/dej/chap-jsp.htm)
 
-## ----- Designs Patterns 
+## Designs Patterns 
 
 [Refactoring Guru](https://refactoring.guru/fr/design-patterns/catalog)<br>
 [Livre : Tête la première - Design Patterns](http://bliaudet.free.fr/IMG/pdf/DPTLP.pdf)

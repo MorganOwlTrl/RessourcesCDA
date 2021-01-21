@@ -1,5 +1,7 @@
 # RessourcesCDA
 
+[Cours playlist vidéo : Java intermédiaire - Les Teachers du Net](https://www.youtube.com/playlist?list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
+
 ## JAVA
 
    ### Maven

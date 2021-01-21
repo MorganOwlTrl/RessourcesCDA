@@ -17,7 +17,7 @@
 [Cheat Sheet CSS](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
 [Liste des selecteurs CSS (en anglais)](https://www.w3schools.com/cssref/css_selectors.asp)
 
-- Flexbox
+- Flexbox <br>
 [Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
 
 

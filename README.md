@@ -1,9 +1,21 @@
 # RessourcesCDA
 
+
+## CSS
+
+[Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+[Liste des selecteurs CSS (en anglais](https://www.w3schools.com/cssref/css_selectors.asp)
+
+## Bootstrap
+
+[Bootstrap cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+## JAVA
+
+
 [Cours playlist vidéo : Java débutants - Les Teachers du Net](https://www.youtube.com/watch?v=fmJsqBWkXm4&list=PLlxQJeQRaKDRnvgIvfHTV6ZY8M2eurH95)<br>
 [Cours playlist vidéo : Java intermédiaires - Les Teachers du Net](https://www.youtube.com/playlist?list=PLlxQJeQRaKDTCU85T7MTT8_YVfzLMtCKH)
 
-## JAVA
 
   ### Maven
  

@@ -5,10 +5,18 @@
 
 [Guide Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf)
 
+## HTML
+
+[Cheat Sheet HTML](https://www.onblastblog.com/wp-content/uploads/2017/01/HTML-5-Cheat-Sheet.pdf)
+
 ## CSS
 
-[Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+[Cheat Sheet CSS](https://cdn.rawgit.com/hostinger/banners/94941d64/tutorials/pdf/CSS-3-Cheatsheet.pdf)
 [Liste des selecteurs CSS (en anglais)](https://www.w3schools.com/cssref/css_selectors.asp)
+
+- Flexbox
+[Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+
 
 ## Bootstrap
 
@@ -24,6 +32,10 @@
   ### Maven
  
  [Cours : Organisez et packagez une application Java avec Apache Maven](https://openclassrooms.com/fr/courses/4503526-organisez-et-packagez-une-application-java-avec-apache-maven)
+ 
+ ### JUnit 5
+ 
+ [Cours : Testez votre code Java pour réaliser des applications de qualité](https://openclassrooms.com/fr/courses/6100311-testez-votre-code-java-pour-realiser-des-applications-de-qualite)
 
 ## Designs Patterns 
 
@@ -33,3 +45,5 @@
   - Builder
   
   [Article : Design pattern : Builder et Builder sont dans un bateau](https://blog.engineering.publicissapient.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)
+  
+  

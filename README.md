@@ -5,6 +5,10 @@
 
 [Guide Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf)
 
+### ----- JIRA
+
+[Tuto JIRA - La Minute Agile](https://www.youtube.com/playlist?list=PL9Q_Ei1JWJ4cJWcPP50lT3slsKxEa4kDk)
+
 
 ## Web Static
 
@@ -24,6 +28,18 @@
 ### ----- Bootstrap
 
 [Bootstrap cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+## Javascript
+
+[Cours : Débuter Javascript de zéro, apprendre les bases](https://www.youtube.com/watch?v=QB1DTl7HFnc]
+
+### ----- Angular 
+
+[Tuto : Démarrer avec Angular](https://www.ganatan.com/tutorials/demarrer-avec-angular)
+
+### ----- Electron JS
+
+[Cours Playlist : Apprendre Electron JS](https://www.youtube.com/playlist?list=PLPtbmUFUWdVpbDPiitumxTQ8r4JhEd2le)
 
 ## JAVA
 
@@ -56,6 +72,10 @@
  ### ----- JSP/JSF
  
 [Les JSP (Java Server Pages)](https://www.jmdoudoux.fr/java/dej/chap-jsp.htm)
+
+### ------ Architectures N-Tiers 
+
+[Architecture 3 Tiers : Le modèle FONDAMENTAL pour apprendre le Développement Web](https://www.youtube.com/watch?v=tpLAcLFn9-U)
 
 ## Designs Patterns 
 

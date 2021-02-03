@@ -9,6 +9,8 @@
 
 [Tuto JIRA - La Minute Agile](https://www.youtube.com/playlist?list=PL9Q_Ei1JWJ4cJWcPP50lT3slsKxEa4kDk)
 
+ - [Kanban](https://www.atlassian.com/fr/agile/kanban)
+
 
 ## Web Static
 

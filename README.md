@@ -24,7 +24,8 @@
 [Liste des selecteurs CSS (en anglais)](https://www.w3schools.com/cssref/css_selectors.asp)
 
 - Flexbox <br>
-[Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+[Flexbox PlayGround - Guide visuel](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
 - Grid <br>
 [Générateur de grilles CSS](https://grid.layoutit.com/)
 <br>

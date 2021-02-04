@@ -27,7 +27,7 @@
 [Guide Flexbox (en anglais)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
 [Flexbox PlayGround - Guide visuel](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
 - Grid <br>
-[Guide Grid][https://css-tricks.com/snippets/css/complete-guide-grid/)
+[Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 [Générateur de grilles CSS](https://grid.layoutit.com/)
 <br>
 

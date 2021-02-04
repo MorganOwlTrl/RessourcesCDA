@@ -35,7 +35,8 @@
 
 ### ----- Bootstrap
 
-[Bootstrap cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+[Bootstrap cheat sheet](https://hackerthemes.com/bootstrap-cheatsheet/)<br>
+[Generateur de formulaires Bootstrap](https://faary.com/)
 
 ## Javascript
 

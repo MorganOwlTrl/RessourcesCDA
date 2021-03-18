@@ -99,4 +99,12 @@
   
   [Article : Design pattern : Builder et Builder sont dans un bateau](https://blog.engineering.publicissapient.fr/2016/12/28/design-pattern-builder-et-builder-sont-dans-un-bateau/)
   
+  ## Autre
+  
+  ### ------ Regex
+  
+  [iHateRegex](https://ihateregex.io/expr)<br>
+  [regexr.com](https://regexr.com/)
+
+  
   
